@@ -5,7 +5,7 @@ Hi :wave: I'm Florian (he/his) – a senior technical writer and documentation e
 ### Projects I'm proud of
 
 - [MDN browser compat data](https://github.com/mdn/browser-compat-data) – project and technical lead for compatibility data that powers the compat tables on MDN and [caniuse](https://hacks.mozilla.org/2019/09/caniuse-and-mdn-compat-data-collaboration/).
-- [MDN JavaScript docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – I completely re-did the ECMAScript docs in light of ES6 in 2015 and updated them since then according to the latest TC39 specifications.
+- [MDN JavaScript docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – I completely rewrote the ECMAScript docs in light of ES6 in 2015 and maintained them since then according to the latest TC39 specifications.
 - [MDN HTTP docs](https://developer.mozilla.org/en-US/docs/Web/HTTP) – co-authored the original MDN HTTP docs in 2016 and curated them since then.
 
 ### Get in touch
