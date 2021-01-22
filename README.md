@@ -1,6 +1,12 @@
 ## Florian Scholz 
 
-Hi :wave: I'm Florian (he/his) – a senior technical writer and documentation engineer. I'm currently looking for a new opportunity. For the last 10 years, I worked [@mozilla](https://github.com/mozilla) on [MDN Web Docs](https://developer.mozilla.org) as lead content strategist, technical writer & documentation engineer. I live in Bremen, Germany. I'm an experienced remote worker, but also open to relocation.
+Hi :wave: I'm Florian (he/him) - the Content Lead of [Open Web Docs](https://github.com/openwebdocs). I'm into documenting the open web and making knowledge available to web developers & designers worldwide. You can learn more about OWD and support me and team on our [open collective page](https://opencollective.com/open-web-docs).
+
+In late 2009, I got involved with [MDN Web Docs](https://developer.mozilla.org) and from 2013 until August 2020 I worked at [@mozilla](https://github.com/mozilla) as MDN's lead content strategist, technical writer & documentation engineer.
+
+My favourite conference is [Write The Docs](https://www.writethedocs.org). Say hi if you're there, too. :blush:
+
+I live in Bremen, Germany, and I enjoy listening to wave music and collecting records.
 
 ### Projects I'm proud of
 
@@ -10,7 +16,7 @@ Hi :wave: I'm Florian (he/his) – a senior technical writer and documentation e
 
 ### Get in touch
 
-- Twitter: https://twitter.com/floscholz
+- Twitter: https://twitter.com/floscholz, https://twitter.com/openwebdocs
 - LinkedIn: https://www.linkedin.com/in/florianscholz/
 - Personal site: https://florianscholz.com/
 
