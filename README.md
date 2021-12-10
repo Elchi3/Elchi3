@@ -1,25 +1,18 @@
 ## Florian Scholz 
 
-Hi :wave: I'm Florian (he/him), Content Lead at [Open Web Docs](https://github.com/openwebdocs). I'm into documenting the open web and making knowledge available to web developers & designers worldwide. You can learn more about OWD and support the team and me on our [open collective page](https://opencollective.com/open-web-docs).
+Hi :wave: I'm Florian (he/him), Content Lead at [Open Web Docs](https://github.com/openwebdocs). 
+I document the open web and make knowledge available to web developers & designers worldwide. You can learn more about OWD and sponsor the team and me on our [open collective page](https://opencollective.com/open-web-docs).
 
-In late 2009, I got involved with [MDN Web Docs](https://developer.mozilla.org), and from 2013 until August 2020 I worked at [@mozilla](https://github.com/mozilla) as MDN's lead content strategist, technical writer & documentation engineer.
+In late 2009, I got involved with [MDN Web Docs](https://developer.mozilla.org) and from 2013 until August 2020 I worked at [Mozilla](https://github.com/mozilla) as MDN's Lead Content Strategist, Technical Writer & Documentation Engineer.
 
-My favourite conference is [Write The Docs](https://www.writethedocs.org). Say hi if you're there, too. :blush:
+My favourite conference is [Write The Docs](https://www.writethedocs.org). Please say hi if you're attending, too! :blush:
 
-I live in Bremen, Germany, and I enjoy listening to wave music and collecting records.
+I live in Bremen, Germany. When not reviewing pull requests or writing content, I enjoy listening to wave and post-punk music.
 
-### Projects I'm proud of
-
-- [MDN browser compat data](https://github.com/mdn/browser-compat-data) – project and technical lead for compatibility data that powers the compat tables on MDN and [caniuse](https://hacks.mozilla.org/2019/09/caniuse-and-mdn-compat-data-collaboration/).
-- [MDN JavaScript docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – I completely rewrote the ECMAScript docs in light of ES6 in 2015 and maintained them since then according to the latest TC39 specifications.
-- [MDN HTTP docs](https://developer.mozilla.org/en-US/docs/Web/HTTP) – co-authored the original MDN HTTP docs in 2016 and curated them since then.
-
-### Get in touch
-
-- Twitter: https://twitter.com/floscholz, 
-- OWD Twitter: https://twitter.com/openwebdocs
-- LinkedIn: https://www.linkedin.com/in/florianscholz/
-- Personal site: https://florianscholz.com/
+- [@floscholz](https://twitter.com/floscholz) 
+- [@openwebdocs](https://twitter.com/openwebdocs)
+- [LinkedIn](https://www.linkedin.com/in/florianscholz) 
+- [florianscholz.com](https://florianscholz.com)
 
 <hr>
 
