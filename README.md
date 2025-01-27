@@ -10,7 +10,8 @@ My favourite conference is [Write The Docs](https://www.writethedocs.org). Pleas
 
 I live in Bremen, Germany. When not reviewing pull requests or writing content, I enjoy listening to wave and post-punk music.
 
-- [@floscholz](https://front-end.social/@floscholz) 
+- [Mastodon](https://front-end.social/@floscholz)
+- [Bluesky](https://bsky.app/profile/florianscholz.com)
 - [LinkedIn](https://www.linkedin.com/in/florianscholz) 
 - [florianscholz.com](https://florianscholz.com)
 
